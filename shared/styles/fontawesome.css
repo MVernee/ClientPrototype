@@ -1,0 +1,32 @@
+/* === Font Awesome Pro Sharp Fonts === */
+
+/* Regular */
+@font-face {
+    font-family: "Font Awesome 7 Sharp";
+    src: url("../webfonts/fontawesome/FontAwesome7Sharp-Regular.woff2") format("woff2"),
+        url("../webfonts/fontawesome/FontAwesome7Sharp-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Solid */
+@font-face {
+    font-family: "Font Awesome 7 Sharp";
+    src: url("../webfonts/fontawesome/FontAwesome7Sharp-Solid.woff2") format("woff2"),
+        url("../webfonts/fontawesome/FontAwesome7Sharp-Solid.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Helpers */
+.fa-sharp-regular {
+    font-family: "Font Awesome 7 Sharp";
+    font-weight: 400;
+}
+
+.fa-sharp-solid {
+    font-family: "Font Awesome 7 Sharp";
+    font-weight: 900;
+}

@@ -1,0 +1,82 @@
+@import "./tokens-default.css";
+@import "./fontawesome.css";
+
+:root {
+
+    /* Colors */
+    --primary-lightest: var(--brand-50);
+    --primary-lighter: var(--brand-200);
+    --primary-light: var(--brand-300);
+    --primary: var(--brand-500);
+    --primary-dark: var(--brand-600);
+    --primary-darker: var(--brand-800);
+    --primary-darkest: var(--brand-900);
+
+    --secondary: var(--brandsecondary-500);
+    --secondary-dark: var(--brandsecondary-700);
+
+    --neutral-alt: var(--gray-alt-500);
+    --neutral-alt-dark: var(--gray-alt-800);
+
+    --neutral-0: var(--gray-100);
+    --neutral-1: var(--gray-100);
+    --neutral-2: var(--gray-200);
+    --neutral-3: var(--gray-300);
+    --neutral-4: var(--gray-400);
+    --neutral-5: var(--gray-500);
+    --neutral-6: var(--gray-600);
+    --neutral-7: var(--gray-700);
+    --neutral-8: var(--gray-800);
+    --neutral-9: var(--gray-900);
+
+    --error-light: var(--red-100);
+    --error: var(--red-500);
+    --error-dark: var(--red-600);
+
+    --success-light: var(--green-100);
+    --success: var(--green-500);
+    --success-dark: var(--green-600);
+
+    --warning-light: var(--yellow-100);
+    --warning: var(--yellow-500);
+    --warning-dark: var(--yellow-600);
+
+    --info-light: var(--blue-100);
+    --info: var(--blue-500);
+    --info-dark: var(--blue-600);
+
+    /* Text colors */
+    --text-default: var(--neutral-9);
+    --text-inverse: var(--neutral-0);
+    --text-primary: var(--primary);
+    --text-error: var(--error);
+    --text-success: var(--success);
+    --text-warning: var(--warning);
+    --text-info: var(--info);
+
+    /* Font sizes */
+    --fs-h1: var(--fs-h1);
+    --fs-h2: var(--fs-h2);
+    --fs-h3: var(--fs-h3);
+    --fs-body-l: var(--fs-body-l);
+    --fs-body-m: var(--fs-body-m);
+    --fs-body-s: var(--fs-body-s);
+    --fs-caption: var(--fs-caption);
+
+    /* Line heights */
+    --lh-snug: var(--lh-snug);
+    --lh-normal: var(--lh-normal);
+    --lh-relaxed: var(--lh-relaxed);
+
+    /* Font weight */
+    --fw-default: var(--fw-regular);
+    --fw-bold: var(--fw-bold);
+
+    --icon-solid-s: ;
+    --icon-solid-base: ;
+    --icon-solid-l: ;
+
+    --icon-default-s: ;
+    --icon-default-base: ;
+    --icon-default-l: ;
+}
