@@ -72,11 +72,13 @@
     --fw-default: var(--fw-regular);
     --fw-bold: var(--fw-bold);
 
-    --icon-solid-s: ;
-    --icon-solid-base: ;
-    --icon-solid-l: ;
-
-    --icon-default-s: ;
-    --icon-default-base: ;
-    --icon-default-l: ;
+    /* Spacing */
+    --spacing-none: var(--spacing-no);
+    --spacing-xxs: var(--spacing-xxs);
+    --spacing-xs: var(--spacing-xs);
+    --spacing-s: var(--spacing-s);
+    --spacing-m: var(--spacing-m);
+    --spacing-l: var(--spacing-l);
+    --spacing-xl: var(--spacing-xl);
+    --spacing-xxl: var(--spacing-xxl);
 }
