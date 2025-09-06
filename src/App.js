@@ -7,7 +7,7 @@ function App() {
         Development Project
       </h1>
       <p className="text-gray-600 mt-4">
-        Multi-application setup is working!
+        Multi-application setup is working!!!!
       </p>
     </div>
   );
